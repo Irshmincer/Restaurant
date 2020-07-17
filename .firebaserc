@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "food-e79cf"
+  },
+  "targets": {
+    "restaurant-526db": {
+      "hosting": {
+        "Restaurant": [
+          "restaurant-526db"
+        ]
+      }
+    }
+  }
+}
